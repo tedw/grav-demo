@@ -1,0 +1,11 @@
+email: ted.whitehead@threespot.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: Threespot
+title: Test
+state: enabled
+hashed_password: $2y$10$i1WLNpXlTz0J2LEJFemm7eJWrgfJrK1L6TVtHw0t7VRvBYXSUdQSK
